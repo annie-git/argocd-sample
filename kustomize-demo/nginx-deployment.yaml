@@ -15,5 +15,5 @@ spec:
         app: nginx
     spec:
       containers:
-      - image: xmaeltht/nginx
+      - image: tomcat
         name: nginx
